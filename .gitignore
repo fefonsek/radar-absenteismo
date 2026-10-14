@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+~$*
+*.pbix
+*.pbit
+*.pbip
+*.SemanticModel/
+*.Report/
+*.m
+*.tmdl
